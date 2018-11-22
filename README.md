@@ -16,3 +16,8 @@ products.php
 directory_iterator.php
 
 Рекурсивный вывод содержимого всех папок
+
+
+regular_expressions.php
+
+Разделить текст на слова
